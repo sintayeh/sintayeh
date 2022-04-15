@@ -1,0 +1,18 @@
+{
+    "id": 7890,
+    "category": {
+      "id": 7890,
+      "name": "petme"
+    },
+    "name": "petme",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 7890,
+        "name": "petme"
+      }
+    ],
+    "status": "available"
+  }
